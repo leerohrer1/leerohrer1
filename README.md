@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, my name is Lee! Thanks for stopping by!
+
+* I'm a former educator turned software engineer (check out my [LinkedIn](https://www.linkedin.com/in/lee-rohrer-14322486/)!)
+* I'm currently enrolled in [LaunchCode Women+](https://www.launchcode.org/women-plus) in St. Louis, MO 
+* I've completed several courses on [Codecademy](https://www.codecademy.com/profiles/leerohrer1)
+* I enjoy completing projects on [exercism.org](https://exercism.org/profiles/leerohrer1) to test my knowledge
+* Please reach out if you'd like to collaborate or to learn more about me!
 
 <!--
 **leerohrer1/leerohrer1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
