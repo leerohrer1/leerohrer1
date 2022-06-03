@@ -1,4 +1,4 @@
-### Hi, my name is Lee! Thanks for stopping by!
+### Hi, my name is Lee! 😄 Thanks for stopping by!
 
 * I'm a former educator turned software engineer (check out my [LinkedIn](https://www.linkedin.com/in/lee-rohrer-14322486/)!)
 * I'm currently enrolled in [LaunchCode Women+](https://www.launchcode.org/women-plus) in St. Louis, MO 
