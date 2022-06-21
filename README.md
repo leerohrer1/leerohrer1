@@ -6,7 +6,6 @@
 * I enjoy completing projects on [exercism.org](https://exercism.org/profiles/leerohrer1) to test my knowledge
 * I [Code with Pride](https://www.meetup.com/codewithpride/) 🏳‍🌈
  <br>
- <br>
 Please reach out if you'd like to collaborate or to learn more about me!
 
 <!--
