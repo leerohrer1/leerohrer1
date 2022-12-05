@@ -1,7 +1,7 @@
 ### Hi, my name is Lee! 😄 Thanks for stopping by!
 
 * I'm a former educator turned software engineer (check out my [LinkedIn](https://www.linkedin.com/in/lee-rohrer-14322486/)!)
-* I'm currently enrolled in [LaunchCode Women+](https://www.launchcode.org/women-plus) in St. Louis, MO 
+* I'm a recent graduate from the [LaunchCode Women+ program](https://www.launchcode.org/women-plus) in St. Louis, MO 
 * I've completed several courses on [Codecademy](https://www.codecademy.com/profiles/leerohrer1) and I'll keep doing more until... forever, I think!
 * I enjoy completing projects on [exercism.org](https://exercism.org/profiles/leerohrer1) to test my knowledge
 * I [Code with Pride](https://www.meetup.com/codewithpride/) 💖💜💙
