@@ -3,8 +3,8 @@
 * I'm a former educator turned software engineer (check out my [LinkedIn](https://www.linkedin.com/in/lee-rohrer-14322486/)!)
 * I'm a graduate from the [LaunchCode Women+ program](https://www.launchcode.org/women-plus) in St. Louis, MO 
 * I [Code with Pride](https://www.meetup.com/codewithpride/) 💖💜💙
-* I started by working through lessons on [Codecademy](https://www.codecademy.com/profiles/leerohrer1) and doing challenges on [exercism.org](https://exercism.org/profiles/leerohrer1)
-* Currently, I use a mix of [Pluralsight](https://www.pluralsight.com/) tutorials and [freecodecamp.org](freecodecamp.org) projects while also learning on the job as a Web Developer
+* I started learning by working through lessons on [Codecademy](https://www.codecademy.com/profiles/leerohrer1) and doing challenges on [exercism.org](https://exercism.org/profiles/leerohrer1)
+* Currently, I work as a Web Developer and I use a mix of [Pluralsight](https://www.pluralsight.com/) tutorials and [freecodecamp.org](freecodecamp.org) projects to continue learning
 
 <br>
 Please reach out if you'd like to collaborate or to learn more about me!
