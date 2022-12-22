@@ -1,10 +1,11 @@
 ### Hi, my name is Lee! 😄 Thanks for stopping by!
 
 * I'm a former educator turned software engineer (check out my [LinkedIn](https://www.linkedin.com/in/lee-rohrer-14322486/)!)
-* I'm a recent graduate from the [LaunchCode Women+ program](https://www.launchcode.org/women-plus) in St. Louis, MO 
-* I've completed several courses on [Codecademy](https://www.codecademy.com/profiles/leerohrer1) and I'll keep doing more until... forever, I think!
-* I enjoy completing projects on [exercism.org](https://exercism.org/profiles/leerohrer1) to test my knowledge
+* I'm a graduate from the [LaunchCode Women+ program](https://www.launchcode.org/women-plus) in St. Louis, MO 
 * I [Code with Pride](https://www.meetup.com/codewithpride/) 💖💜💙
+* I started by working through lessons on [Codecademy](https://www.codecademy.com/profiles/leerohrer1) and doing challenges on [exercism.org](https://exercism.org/profiles/leerohrer1)
+* Currently, I use a mix of [Pluralsight](https://www.pluralsight.com/) tutorials and [freecodecamp.org](freecodecamp.org) projects while also learning on the job as a Web Developer
+
 <br>
 Please reach out if you'd like to collaborate or to learn more about me!
 
